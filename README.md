@@ -13,6 +13,7 @@ This project implements a real-time face detection system using OpenCV and Media
 
 ![Face Detection Demo](https://github.com/user-attachments/assets/87d16e36-7ba6-4289-95fb-0255145f4098)
 
+![Face Detection Demo](https://github.com/AhemdMahmoud/Face-Detection/blob/main/screenshot_1724439265.png)
 *Caption: Face detection in action, showing bounding boxes and confidence scores.*
 
 ## Requirements
