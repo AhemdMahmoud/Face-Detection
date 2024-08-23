@@ -11,7 +11,7 @@ This project implements a real-time face detection system using OpenCV and Media
 
 ## Screenshot
 
-![Face Detection Demo](path/to/your/screenshot.png)
+![Face Detection Demo](https://github.com/user-attachments/assets/87d16e36-7ba6-4289-95fb-0255145f4098)
 
 *Caption: Face detection in action, showing bounding boxes and confidence scores.*
 
@@ -26,7 +26,7 @@ This project implements a real-time face detection system using OpenCV and Media
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/face-detection-project.git
+   git clone https://github.com/AhemdMahmoud/Face-Detection.git
    cd face-detection-project
    ```
 
@@ -61,21 +61,3 @@ The main script performs the following actions:
    - Displays the processed frame
 4. Cleans up resources when the user exits the program
 
-## Customization
-
-- To change the screenshot interval, modify the `screenshot_interval` variable (currently set to 5 seconds).
-- The `screenshots` directory is created in the same location as the script. You can change this by modifying the `screenshot_dir` variable.
-
-## License
-
-[Include your chosen license here]
-
-## Contributing
-
-[Include guidelines for contributing to your project]
-
-## Contact
-
-[Your Name] - [your.email@example.com]
-
-Project Link: [https://github.com/yourusername/face-detection-project](https://github.com/yourusername/face-detection-project)
